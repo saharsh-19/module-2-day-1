@@ -1,0 +1,17 @@
+h2{
+    color:aquamarine;
+    background-color: blue;
+    text-align: center;
+}
+#custom-header{
+    color:blueviolet;
+}
+.p3{
+    color:orange;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:oblique;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow:3px 3px 3px;
+}
